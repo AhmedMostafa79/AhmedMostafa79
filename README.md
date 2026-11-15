@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | .NET Developer
 
-I'm a Backend Software Engineer based in Cairo, Egypt, focused on building reliable and  scalable applications with **ASP.NET Core**, **Clean Architecture**, and **Domain-Driven Design**.
+I'm a Backend Software Engineer based in Giza, Cairo, Egypt, focused on building reliable and  scalable applications with **ASP.NET Core**, **Clean Architecture**, and **Domain-Driven Design**.
 
 ## 🚀 Currently
 
